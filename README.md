@@ -1,5 +1,7 @@
+
 Original code from: https://github.com/robinmanuelthiel/swipecards
 
+Available as NuGet.
 Making some changes to make it stable for .net maui.
 
 
