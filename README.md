@@ -1,4 +1,4 @@
-Original code from: http://ro-build5-srv/TrainingCenter/skillpilot
+Original code from: https://github.com/robinmanuelthiel/swipecards
 
 Making some changes to make it stable for .net maui.
 
